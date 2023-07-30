@@ -35,7 +35,7 @@ html{
 
     img{ 
         display: block;
-        margin: 10px auto;
+        margin: 10px auto 40px ;
         border: 2px solid black;
         border-radius: 10px;
         box-shadow: rgb(150, 149, 149) 10px 10px 10px ;
@@ -43,7 +43,7 @@ html{
     }
     
 p {
-    text-align: center;
+    text-align: left;
     padding: 6px;
     margin: 10px 50px;
 }

@@ -39,7 +39,7 @@ iframe {
     box-shadow: rgb(150, 149, 149) 10px 10px 10px ;
 }
 p {
-    text-align: center;
+    text-align: left;
     padding: 10px;
     margin: 10px 50px 100px;
 }
