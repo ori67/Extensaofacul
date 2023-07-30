@@ -10,7 +10,6 @@ html{
     background-image: url("png.png");
     height: 800px;
     margin: 0 0 0;
-    max-width: 1542px;
     }
 
 header {
@@ -52,6 +51,7 @@ img{
     margin: 10px auto;
     border: 2px solid black;
     border-radius: 10px;
+    box-shadow: rgb(150, 149, 149) 10px 10px 10px ;
 
 }
 
@@ -94,6 +94,7 @@ button {
     cursor: pointer;
     background:linear-gradient(to bottom, #b7c1d6 5%, #fdfdfd 100%);
     border-radius: 10px;
+    box-shadow: rgb(150, 149, 149) 5px 5px 5px ;
     
 
 }
