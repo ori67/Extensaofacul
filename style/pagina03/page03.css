@@ -73,3 +73,36 @@ a {
 a:hover {
     color: aqua;
 }
+/* CSS para tornar o layout responsivo */
+@media only screen and (max-width: 1200px) {
+    body {
+        width: 100%;
+        margin: 0;
+    }
+
+    main {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    nav {
+        width: 90%;
+        margin: 20px auto 0;
+    }
+
+    .buttonDiv {
+        width: 90%;
+        margin: 20px auto;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    main {
+        width: 100%;
+        margin: 10px;
+    }
+
+    nav {
+        height: auto;
+    }
+}
